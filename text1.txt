@@ -1,3 +1,4 @@
 this is user 1
 
 user 1 adds another line
+this is user 2
